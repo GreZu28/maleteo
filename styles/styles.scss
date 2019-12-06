@@ -1,0 +1,15 @@
+@import "utils/reset";
+@import "utils/grid";
+@import "utils/typography";
+@import "utils/variables";
+@import "blocks/header";
+
+.page {
+    padding: 0;
+}
+
+@media screen and (min-width: 75em) {
+    .page {
+        padding: 0 16px;
+    }
+}
