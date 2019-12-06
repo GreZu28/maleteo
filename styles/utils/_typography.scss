@@ -1,41 +1,41 @@
 @mixin heading-1() {
-    font-family: $font-family-base;
+    font-family: 'Catamaran', sans-serif;
     font-size: 3rem;
-    line-height: 1.3;
+    line-height: 1.1;
 }
 
 @mixin heading-2() {
-    font-family: $font-family-base;
+    font-family: 'Catamaran', sans-serif;
     font-size: 2.5rem;
-    line-height: 1.2;
+    line-height: 1.1;
 }
 
 @mixin heading-3() {
-    font-family: $font-family-base;
+    font-family: 'Catamaran', sans-serif;
     font-size: 2rem;
     line-height: 1.1;
 }
 
 @mixin mobile-heading-2() {
-    font-family: $font-family-base;
+    font-family: 'Catamaran', sans-serif;
     font-size: 1.8rem;
     line-height: 1;
 }
 
 @mixin mobile-heading-3() {
-    font-family: $font-family-base;
+    font-family: 'Catamaran', sans-serif;
     font-size: 1.6rem;
     line-height: 0.9;
 }
 
 @mixin heading-4() {
-    font-family: $font-family-base;
+    font-family: 'Catamaran', sans-serif;
     font-size: 1.4rem;
     line-height: 0.8;
 }
 
 @mixin mobile-heading-4() {
-    font-family: $font-family-base;
+    font-family: 'Catamaran', sans-serif;
     font-size: 1.2rem;
     line-height: 0.7;
 }
